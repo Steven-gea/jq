@@ -1,2 +1,2 @@
 # jq
-https://steven-gea.github.io/jq/
+https://steven-kan.github.io/jq/
